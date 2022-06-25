@@ -1,5 +1,5 @@
-# Watched-in-2021
-Analysis of watched films in 2021 with Jupiter Notebook
+# Watched-in-year
+Analysis of watched films during a year with Jupiter Notebook
 
 
 I created a notebook to keep a list of watched movies
