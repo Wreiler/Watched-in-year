@@ -8,7 +8,8 @@ There are 8 sections for analyzing watched movies and series
 
   #### 1) Pivot tables
       - tables for movies and series
-      - you can choose the output order (by date or alphabetically), as well as the number of output lines (last 10 or all)
+      - you can choose the output order (by date or alphabetically), 
+      as well as the number of output lines (last 10 or all)
   #### 2) Adding the last watched movie or series
       - you need to enter the name of the movie or series (the word "season" must be mentioned)
       - as well as the date of viewing (end of viewing for the series) in the format DD.MM
