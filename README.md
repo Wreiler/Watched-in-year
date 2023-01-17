@@ -13,6 +13,16 @@ There are 8 sections for analyzing watched movies and series
   #### 2) Adding the last watched movie or series
       - you need to enter the name of the movie or series (the word "season" must be mentioned)
       - as well as the date of viewing (end of viewing for the series) in the format DD.MM
+      - first time watched or rewatched
+      - save this input or reinter data
+      
+In format:
+      
+Last watched movie or TV series: <br/>
+Date of last watched movie or TV series (DD.MM): <br/>
+First time watched (F - default) or rewatched (R) (*for movies*): <br/>
+Save or reinter (y/n): <br/>
+      
   #### 3) Counting the number of films and the distance to the target
       - displays the number of films watched and the remaining number to the intended goal
   #### 4) Counting the number of series
