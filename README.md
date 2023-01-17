@@ -29,4 +29,4 @@ There are 8 sections for analyzing watched movies and series
   --------------------------------------------------    
   #### Example of notebook's work:
   
-  ![image](https://github.com/Wreiler/Watched-in-2021/blob/main/watched_work.gif)
+  ![image](https://github.com/Wreiler/Watched-in-year/blob/main/watched_work_example.gif)
